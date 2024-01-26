@@ -6,5 +6,3 @@ Members :
 
 Report :  
 http://tinyurl.com/LaporanMachineLearningKel1
-
-
