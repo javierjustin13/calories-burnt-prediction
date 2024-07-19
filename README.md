@@ -5,4 +5,4 @@ Members :
 - Stephen William - 2602189695  
 
 Report :  
-http://tinyurl.com/LaporanMachineLearningKel1
+v1 : http://tinyurl.com/LaporanMachineLearningKel1
