@@ -6,4 +6,4 @@ Members :
 
 Report :  
 - v1 : https://tinyurl.com/machine-learning-report
-- v2 : https://tinyurl.com/data-mining-report
+- v2 : https://tinyurl.com/data-mining-report1
